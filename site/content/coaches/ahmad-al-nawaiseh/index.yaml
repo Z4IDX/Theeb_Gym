@@ -1,0 +1,34 @@
+name:
+  en: Ahmad Al-Nawaiseh
+  ar: أحمد النوايسة
+photo: nawaiseh-portrait
+order: 1
+isOwner: true
+instagram: https://www.instagram.com/captain_ahmad_nawaiseh/
+credentials:
+  - title:
+      en: International Judge
+      ar: حَكَم دولي
+    org: IFBB PRO League / NPC
+  - title:
+      en: Certified Instructor
+      ar: مدرّب معتمد
+    org: IFBB PRO League / Mr. Olympia Academy
+  - title:
+      en: Accredited Training Instructor
+      ar: مدرّب تدريب معتمد
+    org: Mutah University
+  - title:
+      en: MSc, Sports Training
+      ar: ماجستير في التدريب الرياضي
+    org: Mutah University
+    years: 2019–2022
+  - title:
+      en: BA, Physical Education
+      ar: بكالوريوس في التربية الرياضية
+    org: Mutah University
+    years: 2004–2008
+  - title:
+      en: Military Fitness Trainer
+      ar: مدرّب لياقة عسكرية
+    org: Mutah

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "description": "Theeb Gym, Marj Al-Hamam, Amman. 2,000 m², 250+ machines, 14 global brands, open 6am to 2am. Built by IFBB Pro League judge Ahmad Al-Nawaiseh."
+  },
+  "nav": {
+    "home": "Home",
+    "gym": "The Gym",
+    "coaches": "Coaches",
+    "visit": "Visit",
+    "membership": "Membership",
+    "menu": "Menu",
+    "close": "Close",
+    "skipToContent": "Skip to content",
+    "switchLanguage": "العربية"
+  },
+  "cta": {
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappShort": "WhatsApp",
+    "tour": "Book a free tour",
+    "directions": "Get directions",
+    "instagram": "Follow on Instagram",
+    "call": "Call"
+  },
+  "hours": {
+    "label": "Opening hours",
+    "daily": "Saturday – Thursday",
+    "friday": "Friday",
+    "dailyValue": "6:00 am – 2:00 am",
+    "fridayValue": "2:00 pm – 8:00 pm"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contact": "Contact",
+    "find": "Find us",
+    "follow": "Follow",
+    "pages": "Pages",
+    "whatsappOnly": "WhatsApp",
+    "phoneOnly": "Phone only"
+  },
+  "common": {
+    "scheduleOnInstagram": "This week's schedule is on Instagram",
+    "readMore": "Read more"
+  }
+}

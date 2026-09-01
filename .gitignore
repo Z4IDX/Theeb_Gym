@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+*.tsbuildinfo
+
+# Environment / secrets
+.env*
+*.pem
+
+# Encoder comparison scratch — one-off CRF experiments from tuning the video
+# pipeline, not inputs to anything. Regenerate via scripts/process-video.mjs.
+site/test_*.webm
+site/test_*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,26 @@
+name:
+  en: Selectorised Machines
+  ar: أجهزة الأوزان
+order: 4
+summary:
+  en: >-
+    Pin-loaded machines covering every pattern, for the sets where you want the
+    path fixed and the weight changed in a second. Useful on a heavy day, and
+    useful on the day after one.
+  ar: >-
+    أجهزة بمسمار تغطّي كل أنماط الحركة، للمجموعات التي تريد فيها مساراً ثابتاً
+    ووزناً تغيّره في ثانية. مفيدة في اليوم الثقيل، ومفيدة في اليوم الذي يليه.
+equipment:
+  - en: Chest press and pec deck
+    ar: ضغط صدر وبك دك
+  - en: Lat pulldown and seated row
+    ar: سحب أمامي وتجذيف جلوس
+  - en: Shoulder press and lateral raise
+    ar: ضغط أكتاف ورفرفة جانبية
+  - en: Leg extension and leg curl
+    ar: تمديد ولفّ الرجلين
+  - en: Abductor and adductor
+    ar: مبعّد ومقرّب الفخذين
+  - en: Cable towers and functional trainers
+    ar: أبراج كيبل وأجهزة تدريب وظيفي
+photo: gallery-09

@@ -1,0 +1,27 @@
+name:
+  en: Free Weights
+  ar: الأوزان الحرة
+order: 1
+summary:
+  en: >-
+    A full dumbbell run in matched pairs, benches at every angle, and enough
+    space between stations that two people can work side by side without one of
+    them apologising. Nothing here is a single copy.
+  ar: >-
+    طقم دمبلز كامل بأزواج متطابقة، وبنشات بكل الزوايا، ومسافات بين المحطات تكفي
+    لشخصين يتمرّنان جنباً إلى جنب دون أن يعتذر أحدهما للآخر. لا شيء هنا بنسخة
+    واحدة.
+equipment:
+  - en: Dumbbells in matched pairs
+    ar: دمبلز بأزواج متطابقة
+  - en: Flat, incline and decline benches
+    ar: بنش مستوٍ ومائل ومنحدر
+  - en: Adjustable and Scott benches
+    ar: بنشات قابلة للتعديل وبنش سكوت
+  - en: Preacher curl stations
+    ar: محطات بريتشر كيرل
+  - en: Cable crossover stations
+    ar: محطات كيبل كروس أوفر
+  - en: EZ and straight fixed bars
+    ar: بارات ثابتة مستقيمة ومتعرّجة
+photo: gallery-08

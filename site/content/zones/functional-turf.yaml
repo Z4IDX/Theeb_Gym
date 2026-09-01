@@ -1,0 +1,27 @@
+name:
+  en: Functional & Turf
+  ar: المنطقة الوظيفية والعشب
+order: 6
+summary:
+  en: >-
+    A turf lane long enough to push a sled properly, with a rig, kettlebells,
+    ropes, boxes and medicine balls around it. This is also the room the group
+    classes use.
+  ar: >-
+    مسار عشب بطول يكفي لدفع الزلّاجة كما ينبغي، وحوله هيكل تعليق وكتل حديدية
+    وحبال وصناديق وكرات طبية. وهذه أيضاً هي القاعة التي تُقام فيها الحصص
+    الجماعية.
+equipment:
+  - en: Turf lane and sleds
+    ar: مسار عشب وزلّاجات
+  - en: Rig with pull-up and dip stations
+    ar: هيكل بمحطات عقلة ومتوازي
+  - en: Kettlebells and slam balls
+    ar: كتل حديدية وكرات ارتطام
+  - en: Battle ropes
+    ar: حبال قتالية
+  - en: Plyo boxes and hurdles
+    ar: صناديق قفز وحواجز
+  - en: Farmer's walk handles
+    ar: مقابض حمل المزارع
+photo: gallery-10

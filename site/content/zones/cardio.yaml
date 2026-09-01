@@ -1,0 +1,27 @@
+name:
+  en: Cardio
+  ar: الكارديو
+order: 5
+summary:
+  en: >-
+    Treadmills, bikes, stair climbers, rowers and ellipticals across the front
+    of the floor, with screens and daylight. There are enough units that the row
+    is never full, which is the only thing that matters about a cardio deck.
+  ar: >-
+    أجهزة مشي ودراجات وأجهزة درج وتجذيف وإليبتيكال في مقدمة الصالة، مع شاشات
+    وضوء طبيعي. عددها يكفي بحيث لا يمتلئ الصف أبداً، وهذا وحده ما يهمّ في منطقة
+    الكارديو.
+equipment:
+  - en: Treadmills
+    ar: أجهزة مشي وجري
+  - en: Upright and recumbent bikes
+    ar: دراجات عمودية ودراجات ظهرية
+  - en: Stair climbers
+    ar: أجهزة صعود الدرج
+  - en: Rowing machines
+    ar: أجهزة تجذيف
+  - en: Ellipticals and cross-trainers
+    ar: إليبتيكال وكروس ترينر
+  - en: Air bikes
+    ar: دراجات هوائية المقاومة
+photo: gallery-04

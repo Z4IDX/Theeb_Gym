@@ -1,0 +1,36 @@
+whatsapp: "0778000946"
+whatsappIntl: "962778000946"
+phone: "0778000945"
+instagram: https://www.instagram.com/theebfitness
+instagramHandle: "@theebfitness"
+ownerInstagram: https://www.instagram.com/captain_ahmad_nawaiseh/
+mapsUrl: https://maps.app.goo.gl/e8RGGdA99J2q5msj8
+coordinates:
+  lat: 31.8867084
+  lng: 35.8572222
+address:
+  en: Marj Al-Hamam, Amman, Jordan
+  ar: مرج الحمام، عمّان، الأردن
+hours:
+  daily:
+    open: "06:00"
+    close: "02:00"
+  friday:
+    open: "14:00"
+    close: "20:00"
+whatsappMessages:
+  home:
+    en: Hi Theeb Gym — I'd like to know more about joining.
+    ar: مرحباً نادي الذيب — حابب أعرف أكثر عن الاشتراك.
+  gym:
+    en: Hi Theeb Gym — I saw the gym page and I have a question.
+    ar: مرحباً نادي الذيب — شفت صفحة النادي وعندي استفسار.
+  coaches:
+    en: Hi Theeb Gym — I'd like to ask about training at Theeb.
+    ar: مرحباً نادي الذيب — حابب أسأل عن التدريب في الذيب.
+  visit:
+    en: Hi Theeb Gym — I'd like to come and see the gym.
+    ar: مرحباً نادي الذيب — حابب أزور النادي وأشوفه.
+  tour:
+    en: Hi Theeb Gym — can I book a free tour?
+    ar: مرحباً نادي الذيب — بقدر أحجز جولة مجانية؟

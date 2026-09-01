@@ -1,0 +1,27 @@
+name:
+  en: Plate-Loaded
+  ar: أجهزة الأقراص
+order: 3
+summary:
+  en: >-
+    Presses, rows, pulldowns and leg machines that load with plates rather than
+    a pin. The heavy end of the floor, and the part people plan their week
+    around. Every major movement exists in more than one machine.
+  ar: >-
+    ضغط وسحب وتجذيف وأجهزة أرجل تُحمَّل بالأقراص لا بالمسمار. هذا هو الطرف
+    الثقيل من الصالة، والجزء الذي ينظّم الناس أسبوعهم حوله. كل حركة أساسية
+    موجودة في أكثر من جهاز.
+equipment:
+  - en: Chest and shoulder presses
+    ar: أجهزة ضغط صدر وأكتاف
+  - en: Rows and high rows
+    ar: أجهزة تجذيف وتجذيف عالٍ
+  - en: Iso-lateral pulldowns
+    ar: سحب أمامي أحادي الجانب
+  - en: Leg press and hack squat
+    ar: ضغط أرجل وهاك سكوات
+  - en: Belt squat and hip thrust
+    ar: سكوات بالحزام ودفع الحوض
+  - en: Standing and seated calf
+    ar: سمانة وقوفاً وجلوساً
+photo: gallery-07

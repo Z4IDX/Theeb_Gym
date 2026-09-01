@@ -1,0 +1,26 @@
+name:
+  en: Power & Platforms
+  ar: القوة والمنصّات
+order: 2
+summary:
+  en: >-
+    Racks and lifting platforms with bars, plates and collars kept at them.
+    Squat, pull and press without booking a slot, and without waiting behind
+    someone using the rack as a coat stand.
+  ar: >-
+    أقفاص ومنصّات رفع، وبارات وأقراص وحلقات تثبيت موجودة عندها لا في مكان آخر.
+    تسكوات وتسحب وتضغط دون حجز، ودون أن تنتظر خلف من يستخدم القفص شمّاعة
+    لملابسه.
+equipment:
+  - en: Power racks
+    ar: أقفاص قوة
+  - en: Half racks and squat stands
+    ar: أنصاف أقفاص وحوامل سكوات
+  - en: Lifting platforms
+    ar: منصّات رفع
+  - en: Olympic barbells
+    ar: بارات أولمبية
+  - en: Bumper and calibrated plates
+    ar: أقراص مطاطية وأقراص معايرة
+  - en: Deadlift and trap bars
+    ar: بارات ديدليفت وبار تراب

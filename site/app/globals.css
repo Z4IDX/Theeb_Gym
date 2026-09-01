@@ -1,0 +1,150 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------------------
+   Theeb Gym design tokens.
+   Dark and typography-led by necessity: no source image exceeds 1200px wide,
+   so type carries every page and photography is always framed, never bled.
+   --------------------------------------------------------------------------- */
+@theme {
+  /* Surfaces — near-black, warmed slightly so photos don't look pasted on. */
+  --color-ink: #0a0a0b;
+  --color-ink-raised: #121214;
+  --color-ink-panel: #18181b;
+  --color-ink-line: #26262b;
+
+  /* Text */
+  --color-bone: #f4f2ef;
+  --color-bone-dim: #a8a5a1;
+  --color-bone-faint: #6f6c69;
+
+  /* Brand red — rebuilt off pure #FF0000 so it survives on black. */
+  --color-blood: #c8161d;
+  --color-blood-hot: #e8232b;
+  --color-blood-deep: #6d0b10;
+
+  --font-display: var(--font-display), "Archivo", system-ui, sans-serif;
+  --font-body: var(--font-body), "Inter", system-ui, sans-serif;
+  --font-arabic: var(--font-arabic), "IBM Plex Sans Arabic", system-ui, sans-serif;
+
+  /* Editorial scale. Display sizes are fluid; body stays fixed for legibility. */
+  --text-display-xl: clamp(3rem, 11vw, 8.5rem);
+  --text-display-lg: clamp(2.5rem, 7.5vw, 5.5rem);
+  --text-display-md: clamp(2rem, 5vw, 3.5rem);
+  --text-display-sm: clamp(1.5rem, 3vw, 2.25rem);
+  --text-eyebrow: 0.75rem;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-bone);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Arabic is designed, not swapped: its own family, a larger optical size and a
+   looser line-height, because Arabic letterforms sit smaller at the same px. */
+[dir="rtl"] body,
+[lang="ar"] body {
+  font-family: var(--font-arabic);
+  line-height: 1.85;
+  letter-spacing: 0;
+}
+
+[lang="ar"] .font-display {
+  font-family: var(--font-arabic);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.25;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 0.92;
+  text-transform: uppercase;
+}
+
+/* Arabic never gets uppercased or tightly tracked — both are meaningless or
+   harmful in Arabic script. */
+[lang="ar"] .font-display,
+[lang="ar"] .eyebrow {
+  text-transform: none;
+}
+
+.eyebrow {
+  font-size: var(--text-eyebrow);
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-bone-dim);
+}
+
+[lang="ar"] .eyebrow {
+  letter-spacing: 0;
+}
+
+::selection {
+  background: var(--color-blood);
+  color: var(--color-bone);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-blood-hot);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   First-load intro overlay.
+
+   Hidden by default and only shown once the pre-paint script in
+   app/[lang]/layout.tsx sets data-loader="loading". Defaulting to hidden is the
+   point: with JavaScript disabled nothing ever sets that attribute, so the
+   panel stays down and can never trap the page behind an intro that has no way
+   to finish.
+   --------------------------------------------------------------------------- */
+.site-loader {
+  display: none;
+}
+
+html[data-loader="loading"] .site-loader {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: grid;
+  place-items: center;
+  background-color: var(--color-ink);
+  will-change: transform;
+}
+
+html[data-loader="loading"] body {
+  overflow: hidden;
+}
+
+/* The intro is motion by definition — there is no reduced version of it worth
+   showing, so it is skipped entirely rather than played fast. */
+@media (prefers-reduced-motion: reduce) {
+  .site-loader {
+    display: none !important;
+  }
+}

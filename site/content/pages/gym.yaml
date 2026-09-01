@@ -1,0 +1,160 @@
+metaDescription:
+  en: >-
+    Inside Theeb Gym: 2,000 m² laid out in zones, 250+ machines from 14 global
+    brands, group classes, and what a membership covers. Marj Al-Hamam, Amman.
+  ar: >-
+    داخل نادي الذيب: 2000 م² موزّعة على مناطق، وأكثر من 250 جهازاً من 14
+    علامة عالمية، وحصص جماعية، وما يشمله الاشتراك. مرج الحمام، عمّان.
+intro:
+  eyebrow:
+    en: The floor
+    ar: الصالة
+  headline:
+    en: 2,000 m², laid out in zones.
+    ar: 2000 م²، موزّعة على مناطق.
+  body:
+    en: >-
+      Nothing is mixed together. Free weights sit with free weights, plate-loaded
+      with plate-loaded, machines with machines, and cardio and turf get their own
+      space at the front.
+
+
+      It means you can run a full session without walking the length of the
+      building, and it means the busy corner of one zone doesn't spill into the
+      next.
+    ar: >-
+      لا شيء مختلط. الأوزان الحرة مع الأوزان الحرة، وأجهزة الأقراص مع أجهزة
+      الأقراص، والأجهزة مع الأجهزة، والكارديو والعشب لهما مساحتهما في المقدمة.
+
+
+      هذا يعني أن تنهي تمرينك كاملاً دون أن تقطع المبنى من طرف إلى طرف، ويعني
+      أن ازدحام ركن في منطقة لا يمتدّ إلى المنطقة التي تليها.
+zonesIntro:
+  headline:
+    en: Seven zones
+    ar: سبع مناطق
+  body:
+    en: >-
+      Each zone is stocked to be finished on its own — you should never have to
+      leave one to complete the work you started in it.
+    ar: >-
+      كل منطقة مجهّزة لتُنهي فيها تمرينك كاملاً — لا ينبغي أن تغادرها لتكمل ما
+      بدأته فيها.
+brandsIntro:
+  headline:
+    en: 14 global brands
+    ar: 14 علامة عالمية
+  body:
+    en: >-
+      The floor was not bought as a package from one supplier. Each zone runs
+      whichever brand builds the best version of that particular machine, which
+      is why the badges on the frames don't match.
+    ar: >-
+      لم تُشترَ الصالة صفقةً واحدة من مورّد واحد. كل منطقة تستخدم العلامة التي
+      تصنع أفضل نسخة من ذلك الجهاز تحديداً، ولهذا لا تتطابق الشعارات على
+      الهياكل.
+membership:
+  headline:
+    en: What membership covers
+    ar: ماذا يشمل الاشتراك
+  body:
+    en: >-
+      One membership, the whole building. Every zone, every one of the 250+
+      machines, and the group classes while they run. Showers, changing rooms
+      and a locker for the session. Parking at the door.
+
+
+      Theeb Coffee House, the KABS supplement store and the barber are on site
+      and open while the gym is open.
+
+
+      One price, the whole building. Nothing below is an add-on.
+    ar: >-
+      اشتراك واحد، والمبنى كله. كل منطقة، وكل جهاز من أصل أكثر من 250 جهازاً،
+      والحصص الجماعية ما دامت تُقام. حمّامات وغرف تبديل وخزانة طوال التمرين.
+      ومواقف أمام الباب.
+
+
+      مقهى الذيب ومتجر KABS للمكمّلات والحلاق كلها داخل الموقع وتعمل ما دام
+      النادي مفتوحاً.
+
+
+      سعر واحد، والمبنى كله. ولا شيء مما يلي يُحتسب إضافياً.
+pricing:
+  headline:
+    en: What it costs
+    ar: كم يكلّف
+  currency:
+    en: JD
+    ar: دينار
+  plans:
+    - term:
+        en: 1 month
+        ar: شهر
+      price: "60"
+    - term:
+        en: 2 months
+        ar: شهران
+      price: "100"
+    - term:
+        en: 3 months
+        ar: 3 أشهر
+      price: "140"
+    - term:
+        en: 6 months
+        ar: 6 أشهر
+      price: "240"
+    - term:
+        en: 1 year
+        ar: سنة
+      price: "400"
+  includes:
+    - title:
+        en: InBody test
+        ar: فحص InBody
+      detail:
+        en: Free, every 40 days
+        ar: مجاناً كل 40 يوماً
+    - title:
+        en: Group classes
+        ar: الحصص الجماعية
+      detail:
+        en: 12 a month, included
+        ar: 12 حصة شهرياً، ضمن الاشتراك
+    - title:
+        en: Coaches on the floor
+        ar: مدرّبون في الصالة
+      detail:
+        en: Guidance and support, no extra fee
+        ar: إرشاد ومتابعة دون رسوم إضافية
+  note:
+    en: >-
+      Every term above buys the same thing: the whole floor, all 250+ machines,
+      the classes and the coaches. The longer terms are not a different
+      membership, only a cheaper month.
+    ar: >-
+      كل مدة أعلاه تشتري الشيء نفسه: الصالة كاملة، وأكثر من 250 جهازاً، والحصص
+      والمدرّبين. المدد الأطول ليست اشتراكاً مختلفاً، بل شهراً أرخص فحسب.
+classes:
+  headline:
+    en: Group classes
+    ar: الحصص الجماعية
+  body:
+    en: >-
+      Classes run in the studio through the week, taken as part of the
+      membership. What each one is, and who it's for, is below.
+
+
+      The timetable moves — a class shifts, a coach travels, the room gets
+      rebooked. Rather than print a grid that goes stale, we post the current
+      week where it can be corrected the same day.
+    ar: >-
+      تُقام الحصص في الاستوديو على مدار الأسبوع، وهي جزء من الاشتراك. وفيما يلي
+      ما هي كل حصة ولمن هي.
+
+
+      الجدول يتغيّر — حصة تنتقل، ومدرّب يسافر، والقاعة يُعاد حجزها. وبدل أن
+      نطبع جدولاً يقدُم، ننشر جدول الأسبوع في مكان يمكن تصحيحه في اليوم نفسه.
+  instagramLine:
+    en: We post the current week to @theebfitness. That is the only place it is ever right.
+    ar: ننشر جدول الأسبوع على @theebfitness. وهو المكان الوحيد الذي يكون فيه صحيحاً دائماً.
